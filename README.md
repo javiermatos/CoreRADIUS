@@ -182,4 +182,6 @@ Un componente especialmente útil es Ready to go!, que consiste en una aplicaci�
 
 Esta aplicación es idela para automatizar todo el proceso de contratación en modalidad prepago de usuarios una vez se haya realizado la instalación física. Este servicio se ha mostrado especialmente útil en el caso de viviendas vacacionales o segundas viviendas donde los inquilinos sólo están presentes una parte del año y quieren tener control de cómo y cuándo pagan por sus servicios.
 
+Está disponible una instancia en ejecución que corresponde a un cliente real en la dirección https://go.vozplus.com.
+
 ![](screenshot/readytogo-activation.png)
